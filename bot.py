@@ -4,5 +4,5 @@ from aiogram import Bot
 from aiogram.dispatcher import Dispatcher
 
 
-bot = Bot(token='-----')
+bot = Bot()
 dp = Dispatcher(bot)
